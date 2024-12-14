@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>827625882025-t3hl1g5nn2couem0ijao4m9vjtf15gv7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.827625882025-t3hl1g5nn2couem0ijao4m9vjtf15gv7</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>827625882025-7mn41qjhokudami4aa71suh33qronl2k.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDQicfuUmXsSaXS7YmvFC3ckqpxr-dd2zA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>827625882025</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.gologonow.bloodlines</string>
+	<key>PROJECT_ID</key>
+	<string>bloodlines-71fea</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bloodlines-71fea.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:827625882025:ios:d0feb7db8ffd85071104b8</string>
+</dict>
+</plist>

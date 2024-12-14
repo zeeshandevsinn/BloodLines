@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "827625882025",
+    "project_id": "bloodlines-71fea",
+    "storage_bucket": "bloodlines-71fea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827625882025:android:9dcbf846ce6a6e231104b8",
+        "android_client_info": {
+          "package_name": "com.gologonow.bloodlines"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827625882025-7mn41qjhokudami4aa71suh33qronl2k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gologonow.bloodlines",
+            "certificate_hash": "a840f8617a6fe5d4c6367c3f60bfff9c614c6976"
+          }
+        },
+        {
+          "client_id": "827625882025-8qerum6ujaqjm4drvce1ebe98ud24rob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk_knb1KHw990VQQ7YVCSfb8jd6aH5sa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827625882025-8qerum6ujaqjm4drvce1ebe98ud24rob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

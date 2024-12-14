@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--    <string name="app_name">All Out</string>-->
+    <string name="facebook_app_id">1007622247701502</string>
+    <string name="fb_login_protocol_scheme">fb1007622247701502</string>
+    <string name="facebook_client_token">5bfe5eb4f78f88b9a02dd1a2f17ada03</string>
+</resources>
+
+
+<!--<?xml version="1.0" encoding="utf-8"?>-->
+<!--<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">-->
+<!--<channel>-->
+<!--    <title>New Version Available</title>-->
+<!--    <item>-->
+<!--        <title>Version 1.0.0+11</title>-->
+<!--        <description>desc</description>-->
+<!--        <pubDate>Sun, 10 Apr 2023 12:00:00 +0000</pubDate>-->
+<!--        <enclosure url="https://play.google.com/store/apps/details?id=com.app.starbazaar" sparkle:version="1.0.0" sparkle:os="android" />-->
+<!--    </item>-->
+<!--</channel>-->
+<!--</rss>-->
